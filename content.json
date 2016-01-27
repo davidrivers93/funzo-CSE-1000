@@ -1,0 +1,13 @@
+{
+  "name": "Common Sense Economics 1000",
+  "subject": "Economics",
+  "modules": [
+    {
+      "name": "Module 00: First Day"
+    },
+    {
+      "name": "Part I: Twelve Key Elements of Economic",
+      "location": "modules/module-1"
+    }
+  ]
+}
