@@ -1,14 +1,26 @@
 {
   "title": "Common Sense Economics 1000",
   "subject": "Economics",
+  "version": "0.1.0",
   "permalink": "funzo-CSE-1000",
   "modules": [
     {
-      "title": "Module 00: First Day"
+      "title": "Module 00: First Day",
+      "permalink": "module-0"
     },
     {
       "title": "Part I: Twelve Key Elements of Economic",
-      "permalink": "module-1"
+      "permalink": "module-1",
+      "activities": [
+        {
+          "title": "CSE Unit 33",
+          "permalink": "cse-unit-33"
+        },
+        {
+          "title": "Activity 1",
+          "permalink": "activity-1"
+        }
+      ]
     }
   ]
 }

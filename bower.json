@@ -1,0 +1,12 @@
+{
+  "name": "funzo-CSE-1000",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tunapanda/funzo-CSE-1000",
+  "authors": [
+    "Jake Lee Kennedy <jake@bodhi.io>"
+  ],
+  "description": "Common Sense Economics 1000",
+  "main": "content.json",
+  "moduleType": [],
+  "license": "MIT"
+}
